@@ -1,0 +1,6 @@
+CMakeLists.txt
+aedi_modelo_doc.pdfgit
+cmake-build-*/
+.idea/
+trab_aeds2.exe
+aedi_modelo_doc.pdf
